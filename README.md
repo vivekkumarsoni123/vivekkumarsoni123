@@ -56,7 +56,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,bootstrap,c,cpp,css,docker,express,gcp,git,html,java,js,jenkins,kubernetes,linux,mongodb,mysql,nodejs,postman,python,react,spring,tailwind" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,bootstrap,c,cpp,css,docker,express,gcp,git,html,java,js,jenkins,kubernetes,linux,mongodb,mysql,nodejs,postman,python,react,spring,tailwind,vscode,eclipse" />
 </p>
 
 ---
