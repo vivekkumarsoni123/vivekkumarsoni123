@@ -42,6 +42,11 @@
   <a href="https://www.geeksforgeeks.org/user/strvivekkumdy2x/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" height="40"/>
   </a>
+
+  <!-- Gmail -->
+  <a href="mailto:str.vivekkumarsoni123@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40"/>
+  </a>
 </p>
 
 
