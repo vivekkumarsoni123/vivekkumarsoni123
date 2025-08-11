@@ -17,7 +17,7 @@
 - 🌐 Portfolio: **[portfolio-vivek-theta.vercel.app](https://portfolio-vivek-theta.vercel.app/)**
 - 💬 Ask me about: **Deployment, MERN Stack, Spring Boot**
 - 📫 Reach me at: **str.vivekkumarsoni123@gmail.com**
-- 📄 My Resume: [View Here](https://drive.google.com/file/d/1_0HMSQj3x2kBks754f0bWj2IjlPlgBir/view?usp=sharing)
+- 📄 My Resume: [View Here](https://drive.google.com/file/d/1uJ1HUf2tr31JE2xtVgajJPS2FLoNextI/view?usp=sharing)
 
 ---
 
